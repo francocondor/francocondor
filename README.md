@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - email: <a href="mailto:franco.condor.urp@gmail.com">franco.condor.urp@gmail.com</a>
 
 <a href="#">
-  <img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francocondor&hide=blade&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=180 src="https://github-readme-stats-qqv2aqnd7-francos-projects-6fd677ad.vercel.app/api/top-langs/?username=francocondor" />
 </a>
 <a href="#">
   <img height=180 src="https://github-readme-stats-qqv2aqnd7-francos-projects-6fd677ad.vercel.app/api/top-langs/?username=francocondor" />
