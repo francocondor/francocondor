@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 ## About Me 📱
 
 - email: <a href="mailto:franco.condor.urp@gmail.com">franco.condor.urp@gmail.com</a>
+<a href="#">
+  <img height=180 src="https://github-readme-stats-qqv2aqnd7-francos-projects-6fd677ad.vercel.app/api/top-langs/?username=francocondor" />
+</a>
 
 <a href="#">
   
