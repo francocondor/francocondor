@@ -13,11 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 - email: <a href="mailto:franco.condor.urp@gmail.com">franco.condor.urp@gmail.com</a>
 
-
 <a href="#">
-  <img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francocondor&hide=blade&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats-njduorgi7-francos-projects-6fd677ad.vercel.app/api/top-langs/?username=francocondor" />
+    <img width=325 align="center"
+        src="
+        https://github-readme-stats-francocondor.vercel.app/api/top-langs/?username=francocondor&hide=HTML,blade,css,VBA,C%23,SCSS,Shell,PLpgSQL,Hack,jupyter%20notebook,XSLT,Gherkin&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+        alt="top langs" />
 </a>
 <br/>
