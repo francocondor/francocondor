@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @francocondor
 - 👀 I’m interested in Programming, Sports and Travel
-- 🌱 I’m currently learning Problem Solving in HackerRank
 - 💞️ I’m looking to collaborate with modern technologies
 - 📫 Portfolio: https://francocondor.github.io/
+- 🌱 I’m currently learning Problem Solving in HackerRank
 - 📧 email: <a href="mailto:franco.condor.urp@gmail.com">franco.condor.urp@gmail.com</a>
 
 ## Stats ⚡
