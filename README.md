@@ -19,7 +19,7 @@
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francocondor&" alt="francocondor" />
 </a>
-
+</br>
 <a href="#">
   <img align="center" src="https://github-readme-stats-francocondor.vercel.app/api?username=francocondor&theme=gotham" />
 </a>
