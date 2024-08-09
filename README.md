@@ -10,7 +10,7 @@
 ## Stats ⚡
   
 <a href="#">
-  <img align="center" src="https://github-readme-stats-francocondor.vercel.app/api?username=francocondor&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats-francocondor.vercel.app/api?username=francocondor&show_icons=true&rank_icon=github" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francocondor&" alt="francocondor" />
