@@ -10,6 +10,9 @@
 ## Stats ⚡
 <!-- https://github-readme-stats-francocondor.vercel.app/api?username=francocondor&theme=gotham -->
 <a href="#">
+  <img align="center" src="https://github-readme-stats-francocondor.vercel.app/api?username=francocondor&theme=gotham" />
+</a>
+<a href="#">
     <img width=325 align="center"
         src="https://github-readme-stats-francocondor.vercel.app/api/top-langs/?username=francocondor&hide=HTML,blade,css,VBA,C%23,SCSS,Shell,PLpgSQL,Hack,jupyter%20notebook,XSLT,Gherkin&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
         alt="top langs" />
