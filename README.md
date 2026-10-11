@@ -1,9 +1,11 @@
 ## 🚀 About Me
 
-- 👋 Hi! I'm **@francocondor**
-- 💻 Passionate about Programming, Sports, and Travel
-- 🌱 Currently sharpening my Problem Solving skills on HackerRank
-- 🤝 Open to collaborating with modern technologies and innovative projects
+- 👋 Hi! I'm **@francocondor**, a **Senior Fullstack Developer & Team Lead** based in Lima, Peru.
+- 💻 I build robust web applications and automated workflows using **PHP, Laravel, React, Vue.js, and n8n**.
+- 🤖 Exploring and integrating AI-assisted development tools (Claude, Cursor) to optimize team workflows.
+- 🥊 When I'm not coding, I'm usually traveling, training Muay Thai, or playing VALORANT.
+- 🌱 Currently sharpening my Problem Solving skills on HackerRank.
+- 🤝 Open to collaborating on innovative tech projects and modern web architectures.
 - 🌐 **Portfolio:** [francocondor.github.io](https://francocondor.github.io/)
 - 📫 **Email:** [franco.condor.urp@gmail.com](mailto:franco.condor.urp@gmail.com)
 
